@@ -1,0 +1,1020 @@
+{
+  "generatedAt": "2026-08-16T09:23:45.074Z",
+  "bbox": [
+    28.576166,
+    44.131464,
+    28.66472,
+    44.264615
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses",
+      "color": "#0059a9"
+    }
+  ],
+  "lines": [
+    {
+      "line": "1",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Piata Tomis 3",
+          "variants": 1,
+          "tripCount": 35,
+          "stops": 20,
+          "lengthKm": 10.68,
+          "stats": {
+            "observations": 534,
+            "matched": 534,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3366602209701677,
+            "roundaboutSegs": 84,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Confort Urban - imbarcare",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 19,
+          "lengthKm": 9.03,
+          "stats": {
+            "observations": 462,
+            "matched": 462,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.160181375803315,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "2-43",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Arcasului",
+          "variants": 1,
+          "tripCount": 303,
+          "stops": 25,
+          "lengthKm": 10.37,
+          "stats": {
+            "observations": 478,
+            "matched": 478,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.6345725868821637,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Tomis Nord",
+          "variants": 1,
+          "tripCount": 307,
+          "stops": 26,
+          "lengthKm": 10.77,
+          "stats": {
+            "observations": 515,
+            "matched": 515,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1368219460504525,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "3",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Sanatoriu",
+          "variants": 1,
+          "tripCount": 153,
+          "stops": 17,
+          "lengthKm": 8.7,
+          "stats": {
+            "observations": 410,
+            "matched": 410,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4464965057707926,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Tomis Nord",
+          "variants": 1,
+          "tripCount": 154,
+          "stops": 18,
+          "lengthKm": 7.48,
+          "stats": {
+            "observations": 376,
+            "matched": 376,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8766306968993205,
+            "roundaboutSegs": 54,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "3b",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Targ legume",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 12,
+          "lengthKm": 6.29,
+          "stats": {
+            "observations": 314,
+            "matched": 314,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.5560013396225627,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Tomis Nord",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 13,
+          "lengthKm": 6.11,
+          "stats": {
+            "observations": 308,
+            "matched": 308,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.80439194366961,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5-40",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Univ. Ovidius",
+          "variants": 1,
+          "tripCount": 311,
+          "stops": 35,
+          "lengthKm": 17.37,
+          "stats": {
+            "observations": 829,
+            "matched": 829,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9955911452067907,
+            "roundaboutSegs": 52,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Confort Urban - imbarcare",
+          "variants": 1,
+          "tripCount": 315,
+          "stops": 32,
+          "lengthKm": 13.97,
+          "stats": {
+            "observations": 668,
+            "matched": 668,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.767609820534809,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5b",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Gara",
+          "variants": 1,
+          "tripCount": 100,
+          "stops": 19,
+          "lengthKm": 9.32,
+          "stats": {
+            "observations": 464,
+            "matched": 464,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.322975212770843,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Confort Urban - imbarcare",
+          "variants": 1,
+          "tripCount": 100,
+          "stops": 18,
+          "lengthKm": 7.58,
+          "stats": {
+            "observations": 374,
+            "matched": 374,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.219376771837693,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "13",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Carrefour",
+          "variants": 1,
+          "tripCount": 191,
+          "stops": 30,
+          "lengthKm": 14.99,
+          "stats": {
+            "observations": 706,
+            "matched": 706,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9143238309012016,
+            "roundaboutSegs": 144,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Auchan (C.L.)",
+          "variants": 1,
+          "tripCount": 191,
+          "stops": 28,
+          "lengthKm": 14.29,
+          "stats": {
+            "observations": 638,
+            "matched": 638,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.571047195091183,
+            "roundaboutSegs": 113,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "14",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Vivo",
+          "variants": 1,
+          "tripCount": 183,
+          "stops": 34,
+          "lengthKm": 15.86,
+          "stats": {
+            "observations": 644,
+            "matched": 644,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9485920991026147,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Industriala -imbarcare",
+          "variants": 1,
+          "tripCount": 183,
+          "stops": 35,
+          "lengthKm": 15.68,
+          "stats": {
+            "observations": 679,
+            "matched": 679,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.4141897665249696,
+            "roundaboutSegs": 101,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "42",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Portul Tomis",
+          "variants": 1,
+          "tripCount": 275,
+          "stops": 16,
+          "lengthKm": 7.17,
+          "stats": {
+            "observations": 360,
+            "matched": 360,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.091433888433058,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Tomis Nord",
+          "variants": 1,
+          "tripCount": 276,
+          "stops": 16,
+          "lengthKm": 7.24,
+          "stats": {
+            "observations": 364,
+            "matched": 364,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1580371600283677,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "43C",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Gara",
+          "variants": 1,
+          "tripCount": 117,
+          "stops": 18,
+          "lengthKm": 7.46,
+          "stats": {
+            "observations": 359,
+            "matched": 359,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.717216539550204,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Carrefour",
+          "variants": 1,
+          "tripCount": 115,
+          "stops": 17,
+          "lengthKm": 8.08,
+          "stats": {
+            "observations": 367,
+            "matched": 367,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6168577735689136,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "43M",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Vivo",
+          "variants": 1,
+          "tripCount": 150,
+          "stops": 17,
+          "lengthKm": 7.75,
+          "stats": {
+            "observations": 351,
+            "matched": 351,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6208879824864293,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Gara",
+          "variants": 1,
+          "tripCount": 151,
+          "stops": 18,
+          "lengthKm": 7.55,
+          "stats": {
+            "observations": 358,
+            "matched": 358,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.9484395356597908,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "44",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Henri Coanda",
+          "variants": 1,
+          "tripCount": 269,
+          "stops": 21,
+          "lengthKm": 8.44,
+          "stats": {
+            "observations": 424,
+            "matched": 424,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.498577364792274,
+            "roundaboutSegs": 60,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Poarta 1",
+          "variants": 1,
+          "tripCount": 272,
+          "stops": 22,
+          "lengthKm": 8.84,
+          "stats": {
+            "observations": 425,
+            "matched": 425,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.409397312912439,
+            "roundaboutSegs": 47,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "48",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap linie Poarta 2",
+          "variants": 1,
+          "tripCount": 293,
+          "stops": 16,
+          "lengthKm": 6.42,
+          "stats": {
+            "observations": 323,
+            "matched": 323,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9889547592177108,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap linie Palas - Debarcare",
+          "variants": 1,
+          "tripCount": 296,
+          "stops": 18,
+          "lengthKm": 7.73,
+          "stats": {
+            "observations": 384,
+            "matched": 384,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3036358960446472,
+            "roundaboutSegs": 66,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "51",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "R.A.J.A.",
+          "variants": 1,
+          "tripCount": 219,
+          "stops": 16,
+          "lengthKm": 6.29,
+          "stats": {
+            "observations": 314,
+            "matched": 314,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.653034271068286,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Poarta 1",
+          "variants": 1,
+          "tripCount": 50,
+          "stops": 16,
+          "lengthKm": 6.98,
+          "stats": {
+            "observations": 344,
+            "matched": 344,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.8178268407933684,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "100C",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Gara",
+          "variants": 1,
+          "tripCount": 118,
+          "stops": 18,
+          "lengthKm": 8.07,
+          "stats": {
+            "observations": 363,
+            "matched": 363,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.929336200923393,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Carrefour",
+          "variants": 1,
+          "tripCount": 114,
+          "stops": 20,
+          "lengthKm": 8.53,
+          "stats": {
+            "observations": 411,
+            "matched": 411,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.366350526414683,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "100M",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Mamaia",
+          "variants": 1,
+          "tripCount": 378,
+          "stops": 24,
+          "lengthKm": 11.48,
+          "stats": {
+            "observations": 546,
+            "matched": 546,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.720682791164646,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Gara",
+          "variants": 1,
+          "tripCount": 378,
+          "stops": 23,
+          "lengthKm": 11.6,
+          "stats": {
+            "observations": 530,
+            "matched": 530,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.934516042440488,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "101",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Poarta 1",
+          "variants": 1,
+          "tripCount": 302,
+          "stops": 25,
+          "lengthKm": 10.83,
+          "stats": {
+            "observations": 544,
+            "matched": 544,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.6340596388858755,
+            "roundaboutSegs": 42,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Industriala - Imbarcare",
+          "variants": 1,
+          "tripCount": 304,
+          "stops": 29,
+          "lengthKm": 12.66,
+          "stats": {
+            "observations": 642,
+            "matched": 642,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8662287880429456,
+            "roundaboutSegs": 59,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "101M",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Vivo",
+          "variants": 1,
+          "tripCount": 101,
+          "stops": 23,
+          "lengthKm": 12.25,
+          "stats": {
+            "observations": 611,
+            "matched": 611,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.462443737472941,
+            "roundaboutSegs": 95,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Gara",
+          "variants": 1,
+          "tripCount": 104,
+          "stops": 22,
+          "lengthKm": 11.27,
+          "stats": {
+            "observations": 566,
+            "matched": 566,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.482535838335229,
+            "roundaboutSegs": 93,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "102",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Pescarie",
+          "variants": 1,
+          "tripCount": 332,
+          "stops": 23,
+          "lengthKm": 10.41,
+          "stats": {
+            "observations": 518,
+            "matched": 518,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5576019107030836,
+            "roundaboutSegs": 76,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Industriala -imbarcare",
+          "variants": 1,
+          "tripCount": 338,
+          "stops": 22,
+          "lengthKm": 9.26,
+          "stats": {
+            "observations": 456,
+            "matched": 456,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.5119359697371886,
+            "roundaboutSegs": 75,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "CiTy Tour",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cap Linie Mamaia",
+          "variants": 1,
+          "tripCount": 87,
+          "stops": 30,
+          "lengthKm": 21.27,
+          "stats": {
+            "observations": 946,
+            "matched": 946,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.678000466802135,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Cap Linie Gara",
+          "variants": 1,
+          "tripCount": 93,
+          "stops": 27,
+          "lengthKm": 12.91,
+          "stats": {
+            "observations": 565,
+            "matched": 565,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.817833340704182,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    }
+  ]
+}
