@@ -38,3 +38,7 @@ http://localhost:8146.
 
 Data: CT BUS S.A. Constanța · base map © OpenFreeMap / OpenMapTiles / OpenStreetMap
 contributors.
+
+## 17.09.2026 — requested fixes
+
+- **Diacritics as in Bucharest.** CT BUS writes its stops without marks (Piata Tomis, Crisul Repede); stop names and headsigns now go through the Romanian dictionary (`lib/romanian.mjs`, word forms from `data/osm/constanta-names.json` cut from the Geofabrik romania extract) — 80 names, e.g. Piața Tomis, Crișul Repede, Spitalul Județean. Gara keeps its article.

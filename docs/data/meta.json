@@ -43,7 +43,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Piata Tomis 3",
+          "headsign": "Piața Tomis 3",
           "variants": 1,
           "tripCount": 35,
           "stops": 20,
@@ -64,7 +64,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Cap Linie Confort Urban - imbarcare",
+          "headsign": "Cap Linie Confort Urban - îmbarcare",
           "variants": 1,
           "tripCount": 36,
           "stops": 19,
@@ -92,7 +92,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Arcasului",
+          "headsign": "Arcașului",
           "variants": 1,
           "tripCount": 303,
           "stops": 25,
@@ -190,7 +190,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Targ legume",
+          "headsign": "Târg legume",
           "variants": 1,
           "tripCount": 42,
           "stops": 12,
@@ -260,7 +260,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Cap Linie Confort Urban - imbarcare",
+          "headsign": "Cap Linie Confort Urban - îmbarcare",
           "variants": 1,
           "tripCount": 315,
           "stops": 32,
@@ -309,7 +309,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Cap Linie Confort Urban - imbarcare",
+          "headsign": "Cap Linie Confort Urban - îmbarcare",
           "variants": 1,
           "tripCount": 100,
           "stops": 18,
@@ -407,7 +407,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Cap Linie Industriala -imbarcare",
+          "headsign": "Cap Linie Industrială -îmbarcare",
           "variants": 1,
           "tripCount": 183,
           "stops": 35,
@@ -582,7 +582,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Cap Linie Henri Coanda",
+          "headsign": "Cap Linie Henri Coandă",
           "variants": 1,
           "tripCount": 269,
           "stops": 21,
@@ -848,7 +848,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Cap Linie Industriala - Imbarcare",
+          "headsign": "Cap Linie Industrială - Îmbarcare",
           "variants": 1,
           "tripCount": 304,
           "stops": 29,
@@ -925,7 +925,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Pescarie",
+          "headsign": "Pescărie",
           "variants": 1,
           "tripCount": 332,
           "stops": 23,
@@ -946,7 +946,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Cap Linie Industriala -imbarcare",
+          "headsign": "Cap Linie Industrială -îmbarcare",
           "variants": 1,
           "tripCount": 338,
           "stops": 22,
